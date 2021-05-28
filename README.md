@@ -8,6 +8,11 @@ The website is built and developed using Django framework with Python, HTML, CSS
 ### Web-site content
 Different topics about Software Development, Blockchain Development, Personal Development and any related posts in the field of IT.
 
+### Activate the virtual environment
+```
+cd ThoughtsVenv/Scripts/activate.bat
+```
+
 ### Run server 
 
 ```
